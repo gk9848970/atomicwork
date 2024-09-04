@@ -1,12 +1,27 @@
-Setup
-1. Clone the repo
+# Project Setup Instructions
 
-Server
-1. Move to the server folder, cd server
-2. Run npm install
-3. Run the server, npm start
+## Clone the Repository
 
-Frontend
-1. Move to frontend folder, cd frontend
-2. Run bun install
-3. Run the project, bun run dev
+git clone [repository-url]
+
+## Server Setup
+
+1. Navigate to the server folder:
+   cd server
+
+2. Install dependencies:
+   npm install
+
+3. Start the server:
+   npm start
+
+## Frontend Setup
+
+1. Navigate to the frontend folder:
+   cd frontend
+
+2. Install dependencies using Bun:
+   bun install
+
+3. Run the project:
+   bun run dev
