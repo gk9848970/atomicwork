@@ -2,7 +2,7 @@
 
 ## Clone the Repository
 
-git clone [repository-url]
+git clone [[repository-url]](https://github.com/gk9848970/atomicwork.git)
 
 ## Server Setup
 
