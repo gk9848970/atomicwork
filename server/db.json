@@ -1,0 +1,16 @@
+{
+  "roles": [
+    { "id": 1, "role": "Frontend Developer" },
+    { "id": 2, "role": "Backend Developer" },
+    { "id": 3, "role": "Fullstack Developer" },
+    { "id": 4, "role": "DevOps Engineer" },
+    { "id": 5, "role": "Data Scientist" },
+    { "id": 6, "role": "Product Manager" },
+    { "id": 7, "role": "UI/UX Designer" },
+    { "id": 8, "role": "QA Engineer" },
+    { "id": 9, "role": "Mobile Developer" },
+    { "id": 10, "role": "Security Engineer" },
+    { "id": 11, "role": "Database Administrator" },
+    { "id": 12, "role": "System Administrator" }
+  ]
+}

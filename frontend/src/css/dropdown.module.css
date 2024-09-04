@@ -1,0 +1,61 @@
+.dropdownBox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-radius: 10px;
+  transition: all 0.125s ease-in-out;
+  cursor: pointer;
+}
+
+.borderInactive {
+  border: 2px solid rgb(185, 185, 185);
+}
+
+.borderActive {
+  border: 2px solid #6b4894;
+}
+
+.dropdownMenu {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  background: white;
+  border-radius: 4px;
+  padding: 4px;
+}
+
+.dropdownOption {
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+.dropdownOption:hover,
+.dropdownOption:focus,
+.optionSelected {
+  background: #e9e7ee;
+}
+
+.textBasic {
+  font-size: 1rem;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.formInput {
+  display: block;
+  width: 100%;
+  border-radius: 8px;
+  padding: 6px 10px;
+  border: 2px solid rgb(185, 185, 185);
+  outline: none;
+}
+
+.formInput:focus {
+  border: 2px solid #6b4894;
+  outline: none;
+}
+
+.loading {
+  text-align: center;
+}
